@@ -1,0 +1,7 @@
+*
+*/
+
+!.gitignore
+!clean_intermediates.ps1
+!README.md
+!LICENSE
